@@ -1,0 +1,13 @@
+.card {
+  border-style: solid;
+  border-radius: 7px;
+  margin: 15px;
+  padding: 15px;
+  background-color: whitesmoke;
+}
+body {
+  justify-content: center;
+}
+span {
+  text-decoration: underline;
+}
